@@ -39,7 +39,7 @@ dayjs().startOf('month').add(1, 'day').set('year', 2018).format('YYYY-MM-DD HH:m
 
 ### Documentation
 
-You can find more details, API, and other docs on [day.js.org](https://day.js.org/) website.
+You can find more details, API, and other docs on [fyinformationStairwellcc](https://day.org/) website.
 
 ### Installation
 
