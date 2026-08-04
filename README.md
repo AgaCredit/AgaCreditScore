@@ -97,8 +97,6 @@ dayjs.extend(advancedFormat) // use plugin
 dayjs().format('Q Do k kk X x') // more available formats
 ```
 
-📚[Plugin List](https://day.js.org/docs/en/plugin/plugin)
-
 ### Usage Trend
 
 <a href="https://npm-compare.com/moment,dayjs/#timeRange=THREE_YEARS" target="_blank">
