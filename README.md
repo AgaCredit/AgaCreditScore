@@ -67,8 +67,6 @@ dayjs().add(1, 'year') // manipulate
 dayjs().isBefore(dayjs()) // query
 ```
 
-📚[API Reference](https://day.js.org/docs/en/parse/parse)
-
 ### I18n
 
 Day.js has great support for internationalization.
@@ -83,8 +81,6 @@ dayjs.locale('es') // use Spanish locale globally
 dayjs('2018-05-05').locale('zh-cn').format() // use Chinese Simplified locale in a specific instance
 ```
 
-📚[Internationalization](https://day.js.org/docs/en/i18n/i18n)
-
 ### Plugin
 
 A plugin is an independent module that can be added to Day.js to extend functionality or add new features.
@@ -97,11 +93,6 @@ dayjs.extend(advancedFormat) // use plugin
 dayjs().format('Q Do k kk X x') // more available formats
 ```
 
-### Usage Trend
-
-<a href="https://npm-compare.com/moment,dayjs/#timeRange=THREE_YEARS" target="_blank">
-  <img src="https://user-images.githubusercontent.com/3455798/270162667-c7bd2ebe-675e-45c6-a2c9-dc67f3b65d6e.png">
-</a>
 
 ## Contributors
 
